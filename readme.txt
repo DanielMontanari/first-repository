@@ -11,4 +11,4 @@ So far I've learned hot to
  2. Github's pull requests
 5. Creating README files
 
-[I learned all this from Code Institute!](http1;//codeinstitute.net)
+[I learned all this from Code Institute!](http1://codeinstitute.net)
